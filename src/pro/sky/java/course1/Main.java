@@ -3,6 +3,7 @@ package pro.sky.java.course1;
 public class Main {
 
     public static void main(String[] args) {
+        //Задание1
         int a=0;
         while (a!=10){
             a++;
